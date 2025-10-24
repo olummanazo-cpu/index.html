@@ -1,7 +1,7 @@
 style.css
 nav a{
         color: darkblue;
-        font-size: 15px;
+        font-size: 25px;
         font-family:sanserif;
         text-align: center;
         font-size:italic;
@@ -27,7 +27,7 @@ h1{
         background-color:lightblue;
     }
     img{
-        padding: 200px ;
+        padding: 100px ;
     }
         table {
              border: solid black;
