@@ -1,5 +1,5 @@
 style.css
-nav {
+nav a{
         color: darkblue;
         font-size: 15px;
         font-family:sanserif;
@@ -19,21 +19,35 @@ h1{
         font-family:sanserif;
         text-align: center;
     }
-    table {
-        border: solid black;
-        padding: 20px;
-        margin: 50px;
-        background-color: aliceblue;
-        font-size: larger;
-        font-family: 'Courier New', Courier, monospace;
+   
     
 
 
-    }
     *{
         background-color:lightblue;
     }
     img{
-        padding: 46px;
+        padding: 200px ;
     }
+        table {
+             border: solid black;
+             margin: 50px;
+             padding: 20px;
+             font-size: larger;
+             background-color: aliceblue;
+             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+         }
+       th {
+        background-color:skyblue ;
+        border: 2px solid black; 
+        padding: 16px;
+         }
+         td{
+            border: 2px solid black;
+            padding: 16px;
+         }
+                           
+
+
+
   
