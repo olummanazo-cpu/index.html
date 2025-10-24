@@ -1,6 +1,6 @@
 style.css
 nav {
-        color: lightblue;
+        color: darkblue;
         font-size: 15px;
         font-family:sanserif;
         text-align: right;
@@ -8,7 +8,7 @@ nav {
 } 
 
 h1{
-        color:blue;
+        color:darkblue;
         font-size: 45px;
         font-family:sanserif;
         text-align: center;
@@ -23,10 +23,17 @@ h1{
         border: solid black;
         padding: 20px;
         margin: 50px;
-        background: lightblue;
+        background-color: aliceblue;
+        font-size: larger;
+        font-family: 'Courier New', Courier, monospace;
+    
 
 
     }
     *{
         background-color:lightblue;
     }
+    img{
+        padding: 46px;
+    }
+  
