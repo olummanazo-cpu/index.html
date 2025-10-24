@@ -1,9 +1,12 @@
 style.css
+nav{
+    text-align: right 
+}
 nav a{
         color: darkblue;
         font-size: 15px;
         font-family:sanserif;
-        text-align: right;
+        display: inline-block;
         font-size:italic;
 } 
 
