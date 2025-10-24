@@ -1,0 +1,20 @@
+style.css
+nav {
+        color: lightblue;
+        font-size: 15px;
+        font-family:sanserif;
+        text-align: right;
+} 
+
+h1{
+        color:blue;
+        font-size: 45px;
+        font-family:sanserif;
+        text-align: right;
+    }
+    h2{
+        color:darkblue;
+        font-size: 60px;
+        font-family:sanserif;
+        text-align: right;
+    }
