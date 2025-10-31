@@ -1,12 +1,21 @@
 style.css
-nav a{
+nav {
+    background-color: white;
+    padding:25px;
+}
+nav ul{
 
         color: darkblue;
         font-size: 25px;
-        font-family:sanserif;
-        text-align: center;
-        font-size:italic;
+        border-width: 20px;
+        border-color:solid black;
+        
 } 
+nav ul li a{
+    font-style: italic;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 h1{
         color:darkblue;
