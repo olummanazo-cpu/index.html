@@ -6,14 +6,14 @@ nav {
 nav ul{
 
         color: darkblue;
-        font-size: 25px;
         border-width: 20px;
         border-color:solid black;
         
 } 
 nav ul li a{
+    font-size: 10px;
     font-style: italic;
-    text-align: right;
+    text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -29,13 +29,7 @@ h1{
         font-family:sanserif;
         text-align: center;
     }
-   
     
-
-
-    *{
-        background-color:lightblue;
-    }
     img{
         padding: 100px ;
     }
@@ -56,14 +50,12 @@ h1{
             border: 2px solid black;
             padding: 16px;
          }
-        @media screen and (max-width:768px) 
+        @media screen and (max-width:600px) 
 {
-      .feColorMatrix  {
- 
-      flex-directioc:column;
+   
 
         }
-    }
+    
                            
 
 
