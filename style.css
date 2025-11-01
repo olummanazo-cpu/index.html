@@ -51,6 +51,16 @@ h1{
             border: 2px solid black;
             padding: 16px;
          }
+         button {
+            background:dark blue;
+            color:black; 
+         padding :10px;
+         border:none;
+         border-radius:15px;
+         cursor:pointer;
+         font-size:20px;
+         font-family:sanserif;
+         }
          .gridlayout {
             display: grid;
            grid-template-columns: 1fr 1fr;
