@@ -1,7 +1,8 @@
 style.css
 nav {
-    background-color: white;
+    background-color: aliceblue;
     padding:25px;
+    border: 2px;
 }
 nav ul{
 
@@ -11,7 +12,7 @@ nav ul{
         
 } 
 nav ul li a{
-    font-size: 10px;
+    font-size: 15px;
     font-style: italic;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
