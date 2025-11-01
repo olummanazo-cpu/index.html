@@ -52,13 +52,14 @@ h1{
             padding: 16px;
          }
          button {
-            background:dark blue;
+            background: darkcyan;
+ justify-content: center;
             color:black; 
-         padding :10px;
-         border:none;
+         padding :51px;
+         border:darkblue;
          border-radius:15px;
          cursor:pointer;
-         font-size:20px;
+         font-size:50px;
          font-family:sanserif;
          }
          .gridlayout {
