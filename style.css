@@ -51,9 +51,17 @@ h1{
             border: 2px solid black;
             padding: 16px;
          }
+         body {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              height: 100vh;
+              margin: 0;
+           }
+                 
          button {
             background: darkcyan;
- justify-content: center;
+
             color:black; 
          padding :51px;
          border:darkblue;
